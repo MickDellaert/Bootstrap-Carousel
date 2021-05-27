@@ -1,6 +1,17 @@
 # Title: Bootstrap
 
-Second exercise 
+Second exercise on working with Bootstrap framework:
+* Implementing an existing template and using custom content and images
+* Use of a Bootstrap carousel
+
+Specifics of this second exercise:
+- [One more round on the Carousel!](2.Exercise-Carousel.md)
+
+Link to the current result:
+https://mickdellaert.github.io/Bootstrap-Carousel/
+
+---
+
 - Repository: `challenge-bootstrap`
 - Type of Challenge: `Learning Challenge`
 - Duration: 2 days
